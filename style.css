@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.img-preview {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.img-preview img {
+	width: 200px;
+}
+
+
+.info {
+	width: 700px;
+	display: inline-block;
+	margin-top: 0;
+	vertical-align: top;
+	margin-top: 10px;
+}
+.info h1{
+	font-size: 18px;
+	width: 300px;
+	margin-bottom: 5px;
+	line-height: 25px;
+}
+
+.info p {
+	font-size: 15px;
+	line-height: 20px;
+}
